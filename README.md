@@ -3,6 +3,7 @@ Um pouco do inicio da minha aprendizagem em python. Contém exercícos realizado
 São 110 exercícios que me ajudaram a aprender sobre:
 
 <p>OPERADORES, EXPRESSÕES E VARIÁVEIS</p>
+
   - Tipos de variáveis
   
   - Operadores matemáticos
