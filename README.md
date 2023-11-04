@@ -3,23 +3,23 @@ Um pouco do inicio da minha aprendizagem em python. Contém exercícos realizado
 São 110 exercícios que me ajudaram a aprender sobre:
 
 OPERADORES, EXPRESSÕES E VARIÁVEIS
-- Tipos de variáveis
-- Operadores matemáticos
-- Operadores de atribuição
+  - Tipos de variáveis
+  - Operadores matemáticos
+  - Operadores de atribuição
 ESTRUTURA CONDICIONAL
-- If, Elif e Else
-- Break / Continue
+  - If, Elif e Else
+  - Break / Continue
 ESTRUTURA DE REPETIÇÃO
-- While
-- For
+  - While
+  - For
 FUNCÕES
-- Parâmetros
-- Variaveis locais e globais
-- Argumento Default
+  - Parâmetros
+  - Variaveis locais e globais
+  - Argumento Default
 MATRIZES
-- Básico sobre matrizes
-ESTRUTURA DE DADOS
-- Listas
-- Tupla
+  - Básico sobre matrizes
+  ESTRUTURA DE DADOS
+  - Listas
+  - Tupla
 MODULOS
-- from e import
+  - from e import
