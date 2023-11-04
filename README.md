@@ -6,7 +6,7 @@ São 110 exercícios que me ajudaram a aprender sobre:
   - Tipos de variáveis
   - Operadores matemáticos
   - Operadores de atribuição
-ESTRUTURA CONDICIONAL
+<p>ESTRUTURA CONDICIONAL<\p>
   - If, Elif e Else
   - Break / Continue
 ESTRUTURA DE REPETIÇÃO
