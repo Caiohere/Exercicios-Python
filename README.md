@@ -2,7 +2,7 @@
 Um pouco do inicio da minha aprendizagem em python. Contém exercícos realizados no final de 2022 e começo de 2023
 São 110 exercícios que me ajudaram a aprender sobre:
 
-<p>OPERADORES, EXPRESSÕES E VARIÁVEIS</p>
+<p>**OPERADORES, EXPRESSÕES E VARIÁVEIS**</p>
 
   - Tipos de variáveis
   
